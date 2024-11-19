@@ -1,4 +1,6 @@
 model/my_dir/*
 model/vgg16_tuner/*
+model/vgg16_saved_weights/*
 .vscode/*
 .DS_Store
+model/vgg16_saved_weights
