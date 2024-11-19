@@ -1,0 +1,4 @@
+model/my_dir/*
+model/vgg16_tuner/*
+.vscode/*
+.DS_Store
